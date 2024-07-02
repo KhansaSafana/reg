@@ -1,0 +1,85 @@
+*  
+{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body 
+{
+    background:;
+    background-size: ;
+    color: #fff;
+}
+.container 
+{
+    width: 53%;
+    height: 518px;
+    background: #fff;
+    margin: 0 auto;
+    border: 2px solid #fff;
+    box-shadow: 0 15px 40px rgba(0,0,0,.5);
+}
+.container .left 
+{
+    float: left;
+    width: 50%;
+    height: 520px;
+    background: url(photo.png);
+    background-size: cover;
+    box-sizing: border-box;
+}
+.container .right 
+{
+    float: right;
+    width: 50%;
+    height: 400px;
+    box-sizing: border-box;    
+}
+.Signup-form 
+{
+   position: absolute;
+   top: 32%;
+   left: 66%;
+   transform: translate(-50%, -50%);
+   width: 400px;
+   border: 2px black;
+}
+.Signup-form h1 
+{
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;  
+    margin: 40px 0;  
+}
+.Signup-form p 
+{
+    font-size: 20px;
+    margin: 15px 0;
+    color: black;
+}
+.Signup-form input 
+{
+    font-size: 16px;
+    padding: 15px 10px;
+    width: 74%;
+    border: 0;
+    border-radius: 5px;
+    outline: none;
+    border: 2px solid black;
+}
+.Signup-form button 
+{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 15px;
+    width: 50%;
+    border: 0;
+    border-radius: 5px;
+    background-color: #262626;
+    color: #fff;
+}
+.Signup-form para-2
+{
+    text-align: center;
+}
